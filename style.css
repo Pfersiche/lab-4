@@ -1,0 +1,32 @@
+h1 {
+    color: orange
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body {
+    background-color: saddlebrown;
+}
+
+p1 {color: burlywood
+
+}
+
+marquee {
+    color:blanchedalmond
+
+}
+
+marquee {
+    word-spacing: 50px;
+}
+div {
+    background: darkolivegreen;
+    border-radius:3px;
+        padding-left:3px;
+    }
+    ul {
+        color:blanchedalmond
+    }
