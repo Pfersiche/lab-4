@@ -4,11 +4,11 @@ function timeOfDay() {
     let message = "";
 
     if (time <= 11 || location === "uk") {
-        message = "good morning";
-    } else if (time <= 18 || location === "uk") {
+        message = "good morning detective";
+    } else if (time <= 22 || location === "uk") {
       message = "good afternoon";
     } else if (time <= 24 || location === "uk") {
-        message = "good evening";
+        message = "see you in the morning..";
     }
 
     return document.write(message);

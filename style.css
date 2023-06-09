@@ -5,6 +5,10 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h2 {
+    color: wheat; 
+}
+
 .portrait {
     float: left;
     padding-right: 20px;
@@ -36,3 +40,6 @@ div {
     ul {
         color:blanchedalmond
     }
+timeOfDay {
+    color: darkgoldenrod;
+}
