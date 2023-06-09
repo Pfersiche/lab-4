@@ -5,6 +5,10 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.portrait {
+    float: left;
+    padding-right: 20px;
+}
 
 body {
     background-color: saddlebrown;
@@ -24,8 +28,10 @@ marquee {
 }
 div {
     background: darkolivegreen;
-    border-radius:3px;
-        padding-left:3px;
+    border-radius: 30px;
+    padding-top: 20px;
+        padding-left:30px;
+        padding-right: 10px
     }
     ul {
         color:blanchedalmond

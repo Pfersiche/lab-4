@@ -1,6 +1,3 @@
-let myName = "kim"
-console.log(myName)
-
 function timeOfDay() {
     let time = prompt("what hour is it? (0 -23)");
     let location = ("what country are you in?");
@@ -17,4 +14,3 @@ function timeOfDay() {
     return document.write(message);
 }
 
-timeOfDay()
